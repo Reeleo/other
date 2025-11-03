@@ -19,7 +19,7 @@ def reset():
 # RA cx -3.5   area: 27.75
 # RA cy -3.0   area: 18.5
 
-many = 2
+many = 1
 if many == 0:
     ax,ay,bx,by,cx,cy = reset()
     for i in range(6):
